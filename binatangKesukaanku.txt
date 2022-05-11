@@ -1,0 +1,4 @@
+- Kucing
+- Kelinci
+- Gajah
+- Kuda
